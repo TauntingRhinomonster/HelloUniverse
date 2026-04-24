@@ -1,0 +1,15 @@
+C:\Users\ryanb\.vscode\Coding\CSE310\HelloUniverse\obj\Debug\net10.0\HelloUniverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanb\.vscode\Coding\CSE310\HelloUniverse\obj\Debug\net10.0\HelloUniverse.AssemblyInfoInputs.cache
+C:\Users\ryanb\.vscode\Coding\CSE310\HelloUniverse\obj\Debug\net10.0\HelloUniverse.AssemblyInfo.cs
+C:\Users\ryanb\.vscode\Coding\CSE310\HelloUniverse\obj\Debug\net10.0\HelloUniverse.csproj.CoreCompileInputs.cache
+C:\Users\ryanb\.vscode\Coding\CSE310\HelloUniverse\obj\Debug\net10.0\HelloUniverse.sourcelink.json
+C:\Users\ryanb\.vscode\Coding\CSE310\HelloUniverse\bin\Debug\net10.0\HelloUniverse.exe
+C:\Users\ryanb\.vscode\Coding\CSE310\HelloUniverse\bin\Debug\net10.0\HelloUniverse.deps.json
+C:\Users\ryanb\.vscode\Coding\CSE310\HelloUniverse\bin\Debug\net10.0\HelloUniverse.runtimeconfig.json
+C:\Users\ryanb\.vscode\Coding\CSE310\HelloUniverse\bin\Debug\net10.0\HelloUniverse.dll
+C:\Users\ryanb\.vscode\Coding\CSE310\HelloUniverse\bin\Debug\net10.0\HelloUniverse.pdb
+C:\Users\ryanb\.vscode\Coding\CSE310\HelloUniverse\obj\Debug\net10.0\HelloUniverse.dll
+C:\Users\ryanb\.vscode\Coding\CSE310\HelloUniverse\obj\Debug\net10.0\refint\HelloUniverse.dll
+C:\Users\ryanb\.vscode\Coding\CSE310\HelloUniverse\obj\Debug\net10.0\HelloUniverse.pdb
+C:\Users\ryanb\.vscode\Coding\CSE310\HelloUniverse\obj\Debug\net10.0\HelloUniverse.genruntimeconfig.cache
+C:\Users\ryanb\.vscode\Coding\CSE310\HelloUniverse\obj\Debug\net10.0\ref\HelloUniverse.dll
