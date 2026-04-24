@@ -20,9 +20,9 @@ Instructions for using the software:
 
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
+* You will need an Operating System
 * You can tun this software on nothing more than bare-bones Bash or Windows PowerShell
-*
-*
+* You need .NET version 10
 
 ## Useful Websites to Learn More
 
@@ -30,7 +30,6 @@ I found these websites useful in developing this software:
 
 * w3schools.com
 * Google Gemini
-*
 
 ## Future Work
 
