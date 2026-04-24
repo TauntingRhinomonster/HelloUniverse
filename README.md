@@ -1,6 +1,6 @@
 # Hello Universe
 
-Add a description of your project here.
+This project creates the text Hello Universe with style into your terminal. It prints the word "Hello" in cyan, and the word "Universe" in green.
 
 ## Instructions for Build and Use
 
